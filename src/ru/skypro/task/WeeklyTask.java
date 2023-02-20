@@ -19,8 +19,5 @@ public class WeeklyTask extends Task {
         return Repeatability.WEEKLY;
     }
 
-    @Override
-    public int compareTo(Task o) {
-        return 0;
-    }
+
 }

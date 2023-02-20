@@ -19,8 +19,5 @@ public class SingleTask extends Task{
     }
 
 
-    @Override
-    public int compareTo(Task o) {
-        return 0;
-    }
+
 }

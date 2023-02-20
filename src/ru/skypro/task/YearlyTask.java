@@ -19,8 +19,5 @@ public class YearlyTask extends Task{
         return Repeatability.YEARLY;
     }
 
-    @Override
-    public int compareTo(Task o) {
-        return 0;
-    }
+
 }

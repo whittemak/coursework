@@ -19,8 +19,5 @@ public class DailyTask extends Task {
         return Repeatability.DAILY;
     }
 
-    @Override
-    public int compareTo(Task o) {
-        return 0;
-    }
+
 }
